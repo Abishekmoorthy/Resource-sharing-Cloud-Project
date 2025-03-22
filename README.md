@@ -63,8 +63,6 @@ Below is a screenshot of the application interface:
 
 ![Project Interface](![image](https://github.com/user-attachments/assets/00fe5a39-c6ec-4431-9b7f-5ebc034e2158)
 )
-
-
 ## Future Enhancements
 - Support for additional cloud services and features.
 - Advanced customization options for generated summaries and tags.
