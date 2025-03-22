@@ -61,8 +61,9 @@ This project is a cloud-based platform designed to facilitate efficient resource
 ## Screenshot
 Below is a screenshot of the application interface:
 
-![Project Interface](![image](https://github.com/user-attachments/assets/00fe5a39-c6ec-4431-9b7f-5ebc034e2158)
+![Project Interface](![WhatsApp Image 2025-03-18 at 10 19 03_0bdbfd4e](https://github.com/user-attachments/assets/ad1ac78c-fcdf-467b-ae36-a40c6e91352e)
 )
+
 ## Future Enhancements
 - Support for additional cloud services and features.
 - Advanced customization options for generated summaries and tags.
