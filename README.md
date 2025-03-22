@@ -61,7 +61,7 @@ This project is a cloud-based platform designed to facilitate efficient resource
 ## Screenshot
 Below is a screenshot of the application interface:
 
-[WhatsApp Image 2025-03-18 at 10 19 03_f0885952](https://github.com/user-attachments/assets/53ae5bd0-d68d-4a3a-b12b-ae167f43b532)
+![Project Interface][WhatsApp Image 2025-03-18 at 10 19 03_f0885952](https://github.com/user-attachments/assets/53ae5bd0-d68d-4a3a-b12b-ae167f43b532)
 
 
 ## Future Enhancements
